@@ -1,4 +1,4 @@
-# Bases de datos en servidores remotos
+# Bases de datos en servidores remotos - SP_6
 
 ## Acceso a un servidor remoto para localizar registros de errores y obtener información de una base de datos.
 
